@@ -6,3 +6,10 @@ It can store up to 16 different scripts on it's SD card, each of which can be se
 
 # Firmware and bootloader
 Get the firmware and arduino config from the malduino repository: [https://github.com/Seytonic/malduino](https://github.com/Seytonic/malduino)
+
+# TODO
+- Make PCB a bit nicer
+- Create BOM
+- Create Case
+- Create own firmware with PIO
+- Create proper documentation
